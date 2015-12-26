@@ -8,4 +8,5 @@
 ;; node
 (depends-on "js2-mode")
 
-
+;; scala mode
+(depends-on "scala-mode2")
