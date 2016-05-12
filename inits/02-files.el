@@ -11,5 +11,4 @@
 (add-hook 'text-mode-hook
           '(lambda ()
              (auto-fill-mode 1)
-	     (setq fill-column 53)))
-
+	     (setq fill-column 80)))

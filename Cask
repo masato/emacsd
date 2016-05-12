@@ -5,8 +5,12 @@
 (depends-on "init-loader")
 (depends-on "multi-term")
 
+;; theme
+(depends-on "zenburn-theme")
+
 ;; node
 (depends-on "js2-mode")
+(depends-on "handlebars-mode")
 
 ;; scala mode
-(depends-on "scala-mode2")
+;;(depends-on "scala-mode2")
