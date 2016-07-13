@@ -7,6 +7,7 @@
 
 ;; theme
 (depends-on "zenburn-theme")
+(depends-on "yaml-mode")
 
 ;; node
 (depends-on "js2-mode")

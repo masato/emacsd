@@ -5,7 +5,7 @@
 
 (setq backup-inhibited t)
 (setq next-line-add-newlines nil)
-(setq-default tab-width 4 indent-tabs-mode nil)
+(setq-default tab-width 2 indent-tabs-mode nil)
 
 (setq default-major-mode 'text-mode)
 (add-hook 'text-mode-hook
