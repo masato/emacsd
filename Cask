@@ -14,4 +14,4 @@
 (depends-on "handlebars-mode")
 
 ;; scala mode
-;;(depends-on "scala-mode2")
+(depends-on "scala-mode")
