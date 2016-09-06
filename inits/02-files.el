@@ -8,7 +8,7 @@
 (setq-default tab-width 2 indent-tabs-mode nil)
 
 (setq default-major-mode 'text-mode)
-(add-hook 'text-mode-hook
-          '(lambda ()
-             (auto-fill-mode 1)
-	     (setq fill-column 80)))
+;(add-hook 'text-mode-hook
+;          '(lambda ()
+;             (auto-fill-mode 1)
+;	     (setq fill-column 80)))

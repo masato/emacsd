@@ -15,3 +15,6 @@
 
 ;; scala mode
 (depends-on "scala-mode")
+
+;; nginx-mode
+(depends-on "nginx-mode")
