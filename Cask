@@ -18,3 +18,4 @@
 
 ;; nginx-mode
 (depends-on "nginx-mode")
+(depends-on "fsharp-mode")
