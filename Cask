@@ -14,7 +14,7 @@
 (depends-on "handlebars-mode")
 
 ;; scala mode
-(depends-on "scala-mode")
+(depends-on "ensime")
 
 ;; nginx-mode
 (depends-on "nginx-mode")
