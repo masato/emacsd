@@ -5,6 +5,9 @@
 (depends-on "init-loader")
 (depends-on "multi-term")
 
+;; auto-complete
+(depends-on "auto-complete")
+
 ;; theme
 (depends-on "zenburn-theme")
 (depends-on "yaml-mode")
@@ -12,6 +15,10 @@
 ;; node
 (depends-on "js2-mode")
 (depends-on "handlebars-mode")
+
+;; java
+(depends-on "eclim")
+(depends-on "company-emacs-eclim")
 
 ;; scala mode
 (depends-on "ensime")
