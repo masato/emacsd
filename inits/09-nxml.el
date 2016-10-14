@@ -1,3 +1,3 @@
-(add-hook 'nxml-mode-hook
-                    (lambda ()
-                      (setq nxml-slash-auto-complete-flag t)))
+;(add-hook 'nxml-mode-hook
+;                    (lambda ()
+;                      (setq nxml-slash-auto-complete-flag t)))
