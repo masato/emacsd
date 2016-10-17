@@ -23,6 +23,9 @@
 ;; scala mode
 (depends-on "ensime")
 
+;; groovy
+(depends-on "groovy-mode")
+
 ;; nginx-mode
 (depends-on "nginx-mode")
 (depends-on "fsharp-mode")
