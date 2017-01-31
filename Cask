@@ -18,4 +18,7 @@
 
 ;; nginx-mode
 (depends-on "nginx-mode")
+
+;; .NET Core
 (depends-on "fsharp-mode")
+(depends-on "csharp-mode")
