@@ -32,3 +32,7 @@
 ;; .NET Core
 (depends-on "fsharp-mode")
 (depends-on "csharp-mode")
+
+;; TypeScript 
+(depends-on "typescript-mode")
+
