@@ -36,3 +36,6 @@
 ;; TypeScript 
 (depends-on "typescript-mode")
 
+;; Go
+(depends-on "go-mode")
+

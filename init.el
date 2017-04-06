@@ -5,4 +5,3 @@
 (setq init-loader-show-log-after-init nil)
 (init-loader-load "~/.emacs.d/inits")
 (load-theme 'zenburn t)
-
