@@ -33,9 +33,11 @@
 (depends-on "fsharp-mode")
 (depends-on "csharp-mode")
 
-;; TypeScript 
+;; TypeScript
 (depends-on "typescript-mode")
 
 ;; Go
 (depends-on "go-mode")
 
+;; clojure
+(depends-on "clojure-mode")
