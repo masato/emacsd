@@ -41,3 +41,7 @@
 
 ;; clojure
 (depends-on "clojure-mode")
+
+;; Haskell
+(depends-on "haskell-mode")
+
