@@ -44,4 +44,3 @@
 
 ;; Haskell
 (depends-on "haskell-mode")
-
