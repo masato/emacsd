@@ -44,3 +44,6 @@
 
 ;; Haskell
 (depends-on "haskell-mode")
+
+;; point-undo
+(depends-on "point-undo")
