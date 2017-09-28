@@ -18,6 +18,7 @@
 ;; node
 (depends-on "js2-mode")
 (depends-on "handlebars-mode")
+(depends-on "json-mode")
 
 ;; java
 (depends-on "eclim")
