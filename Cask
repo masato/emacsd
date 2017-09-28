@@ -12,6 +12,9 @@
 (depends-on "zenburn-theme")
 (depends-on "yaml-mode")
 
+;; flycheck
+(depends-on "flycheck")
+
 ;; node
 (depends-on "js2-mode")
 (depends-on "handlebars-mode")
