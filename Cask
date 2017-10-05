@@ -15,22 +15,22 @@
 ;; flycheck
 (depends-on "flycheck")
 
-;; node
+;; Node.js
 (depends-on "js2-mode")
 (depends-on "handlebars-mode")
 (depends-on "json-mode")
 
-;; java
+;; Java
 (depends-on "eclim")
 (depends-on "company-emacs-eclim")
 
-;; scala mode
+;; Scala
 (depends-on "ensime")
 
-;; groovy
+;; Groove
 (depends-on "groovy-mode")
 
-;; nginx-mode
+;; Nginx
 (depends-on "nginx-mode")
 
 ;; .NET Core
@@ -51,3 +51,7 @@
 
 ;; point-undo
 (depends-on "point-undo")
+
+;; Markdown
+(depends-on "markdown-mode")
+(depends-on "w3m")
