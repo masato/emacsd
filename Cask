@@ -44,7 +44,7 @@
 (depends-on "go-mode")
 
 ;; clojure
-(depends-on "clojure-mode")
+;;(depends-on "clojure-mode")
 
 ;; Haskell
 (depends-on "haskell-mode")
