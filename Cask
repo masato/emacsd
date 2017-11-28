@@ -44,7 +44,10 @@
 (depends-on "go-mode")
 
 ;; clojure
-;;(depends-on "clojure-mode")
+;(depends-on "clojure-mode")
+
+;; Kotlin
+(depends-on "kotlin-mode")
 
 ;; Haskell
 (depends-on "haskell-mode")
