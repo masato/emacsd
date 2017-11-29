@@ -7,7 +7,7 @@
 (setq next-line-add-newlines nil)
 (setq-default tab-width 4 indent-tabs-mode nil)
 
-(setq default-major-mode 'text-mode)
+(setq major-mode 'text-mode)
 ;(add-hook 'text-mode-hook
 ;          '(lambda ()
 ;             (auto-fill-mode 1)

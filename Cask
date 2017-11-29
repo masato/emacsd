@@ -27,8 +27,12 @@
 ;; Scala
 (depends-on "ensime")
 
-;; Groove
+;; Groovy
 (depends-on "groovy-mode")
+
+;; Kotlin
+(depends-on "kotlin-mode")
+
 
 ;; Nginx
 (depends-on "nginx-mode")
@@ -45,9 +49,6 @@
 
 ;; clojure
 ;(depends-on "clojure-mode")
-
-;; Kotlin
-(depends-on "kotlin-mode")
 
 ;; Haskell
 (depends-on "haskell-mode")
