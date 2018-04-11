@@ -4,4 +4,5 @@
 (require 'init-loader)
 (setq init-loader-show-log-after-init nil)
 (init-loader-load "~/.emacs.d/inits")
-;(load-theme 'zenburn t)
+(load-theme 'zenburn t)
+(setq gnutls-min-prime-bits 1024)

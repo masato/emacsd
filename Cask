@@ -21,41 +21,41 @@
 (depends-on "json-mode")
 
 ;; Java
-(depends-on "eclim")
-(depends-on "company-emacs-eclim")
+;(depends-on "eclim")
+;(depends-on "company-emacs-eclim")
 
 ;; Scala
-(depends-on "ensime")
+;(depends-on "ensime")
 
 ;; Groovy
-(depends-on "groovy-mode")
+;(depends-on "groovy-mode")
 
 ;; Kotlin
-(depends-on "kotlin-mode")
+;(depends-on "kotlin-mode")
 
 
 ;; Nginx
-(depends-on "nginx-mode")
+;(depends-on "nginx-mode")
 
 ;; .NET Core
-(depends-on "fsharp-mode")
-(depends-on "csharp-mode")
+;(depends-on "fsharp-mode")
+;(depends-on "csharp-mode")
 
 ;; TypeScript
-(depends-on "typescript-mode")
+;(depends-on "typescript-mode")
 
 ;; Go
-(depends-on "go-mode")
+;(depends-on "go-mode")
 
 ;; clojure
 ;(depends-on "clojure-mode")
 
 ;; Haskell
-(depends-on "haskell-mode")
+;(depends-on "haskell-mode")
 
 ;; point-undo
-(depends-on "point-undo")
+;(depends-on "point-undo")
 
 ;; Markdown
-(depends-on "markdown-mode")
-(depends-on "w3m")
+;(depends-on "markdown-mode")
+;(depends-on "w3m")
